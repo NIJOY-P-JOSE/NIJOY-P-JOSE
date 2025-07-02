@@ -1,7 +1,3 @@
-# 💫 About Me:
-I'm Nijoy P Jose, a passionate and curious B.Tech Computer Science student with a diploma background in CSE. I love learning by building real-world projects and enjoy exploring how technology can solve everyday problems.<br><br>I'm especially interested in Web Development, Artificial Intelligence, and Developer Tools, and I enjoy working on projects that combine AI, intuitive design, and interactivity to create meaningful user experiences.<br><br>💡 I believe in learning by doing, and every project I take on is a step forward in growing my skills. I'm self-motivated, open to feedback, and always looking for opportunities to collaborate, learn, and innovate.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nijoynpj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nijoy-p-jose) 
 
