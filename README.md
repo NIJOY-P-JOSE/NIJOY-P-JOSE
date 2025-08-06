@@ -1,7 +1,7 @@
 ## 👋 About Me
 
 I'm **Nijoy P Jose**, a Computer Science and Engineering student who loves building real-world tech projects.  
-Currently exploring **Web Dev**, **AI**, and **Computer Vision** with a hands-on approach.  
+Currently exploring **Web Development**, **AI**, and **Computer Vision** with a hands-on approach.  
 I enjoy solving problems, learning new tools, and turning ideas into working code.
 
 
