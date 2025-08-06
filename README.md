@@ -1,10 +1,9 @@
 ## 👋 About Me
 
-Hi there! I'm **Nijoy P Jose**, a passionate and curious Computer Science student with a strong interest in building practical, impactful tech projects. I enjoy learning by doing — whether it's developing websites, experimenting with AI tools, or solving real-life problems through code.
+I'm **Nijoy P Jose**, a Computer Science student who loves building real-world tech projects.  
+Currently exploring **Web Dev**, **AI**, and **Computer Vision** with a hands-on approach.  
+I enjoy solving problems, learning new tools, and turning ideas into working code.
 
-🔭 Currently, I'm exploring **AI**, **Web Development**, and **Computer Vision**, and love working on creative projects that blend different technologies.
-
-✨ My goal is to become a well-rounded developer by continuously learning and contributing to meaningful projects. I believe in writing clean code, building for users, and always improving.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nijoynpj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nijoy-p-jose) 
