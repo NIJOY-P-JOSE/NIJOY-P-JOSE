@@ -47,6 +47,67 @@ Become a Software Engineer at a top product company while continuously building 
 
 ---
 
+
+# 🛠 Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,php" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+</p>
+
+### ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,nodejs,flask" />
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+</p>
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
+</p>
+
+**Also Worked With**
+
+- Gemini API
+- LangChain
+- Scikit-Learn
+- Pandas
+- NumPy
+- Regression Models
+- K-Means Clustering
+
+---
+
+# 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino" />
+</p>
+
+Also experienced with
+
+- ESP32
+- Raspberry Pi
+- Blynk
+- Chart.js
+
+---
+
+
 # 🔥 Current Focus
 
 🚚 **Smart Dynamic Field Operations Optimization**
@@ -110,65 +171,6 @@ Remote-controlled surveillance robot
 ✔ Raspberry Pi
 
 ✔ Blynk IoT
-
----
-
-# 🛠 Tech Stack
-
-### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript,php" />
-</p>
-
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
-</p>
-
-### ⚙ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,nodejs,flask" />
-</p>
-
-### 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
-</p>
-
-### 🤖 AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
-</p>
-
-**Also Worked With**
-
-- Gemini API
-- LangChain
-- Scikit-Learn
-- Pandas
-- NumPy
-- Regression Models
-- K-Means Clustering
-
----
-
-# 🧰 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino" />
-</p>
-
-Also experienced with
-
-- ESP32
-- Raspberry Pi
-- Blynk
-- Chart.js
 
 ---
 
