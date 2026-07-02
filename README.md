@@ -211,13 +211,10 @@ An AI-powered route optimization platform using
 
 # 📊 Languages
 
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NIJOY-P-JOSE&theme=tokyonight)
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NIJOY-P-JOSE&theme=tokyonight"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NIJOY-P-JOSE&theme=tokyonight" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NIJOY-P-JOSE&theme=tokyonight" width="48%">
+</p>
 
 ---
 
