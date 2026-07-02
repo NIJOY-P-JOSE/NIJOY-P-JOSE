@@ -185,7 +185,7 @@ An AI-powered route optimization platform using
 
 🏅 EY GDS NextGen Employability Program
 
-👨‍🏫 Web Development Mentor (FOSSERS & IEDC)
+👨‍🏫 Web Development Mentor
 
 ☕ NPTEL Programming in Java
 
