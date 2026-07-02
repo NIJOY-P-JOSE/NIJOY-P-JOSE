@@ -211,7 +211,7 @@ An AI-powered route optimization platform using
 
 # 📊 Languages
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NIJOY-P-JOSE&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIJOY-P-JOSE&theme=tokyonight)
 
 ---
 
