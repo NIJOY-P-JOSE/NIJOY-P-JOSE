@@ -196,11 +196,11 @@ Remote-controlled surveillance robot
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NIJOY-P-JOSE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NIJOY-P-JOSE&show_icons=true&theme=tokyonight" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIJOY-P-JOSE&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIJOY-P-JOSE&layout=compact&langs_count=8&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NIJOY-P-JOSE&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -210,7 +210,7 @@ Remote-controlled surveillance robot
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NIJOY-P-JOSE&theme=tokyonight&no-frame=true&row=1&column=7" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIJOY-P-JOSE&theme=tokyonight)
 
 </p>
 
