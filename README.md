@@ -202,6 +202,8 @@ An AI-powered route optimization platform using
 
 </div>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIJOY-P-JOSE&theme=tokyonight"/>
+
 <br>
 
 
