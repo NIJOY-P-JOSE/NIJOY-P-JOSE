@@ -1,17 +1,34 @@
 <div align="center">
 
-# Hi 👋, I'm Nijoy P Jose
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Nijoy%20P%20Jose&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Java%20Developer%20•%20AI%20Builder&descAlignY=58" />
 
-### 💻 Full Stack Developer | 🤖 AI & ML Enthusiast | ☕ Java Developer
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e45e2,100:88d3ce&height=220&section=header&text=Nijoy%20P%20Jose&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=55" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Nijoy+P+Jose;Computer+Science+Student;Full+Stack+Developer;Java+Developer;Machine+Learning+Enthusiast;Always+Building+Something+New+🚀" />
 
 <p>
-Passionate about building real-world software using <b>Java</b>, <b>Django</b>, and <b>Machine Learning</b>.<br>
-Currently exploring AI, NLP, Computer Vision, and scalable backend development.
+Passionate about building <b>real-world software</b> using <b>Java</b>, <b>Django</b>, and <b>Machine Learning</b>.
+<br>
+Currently exploring AI, NLP, Computer Vision, and scalable backend systems.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;Java+%7C+Django+Developer;Machine+Learning+Enthusiast;Building+Real+World+Projects;Always+Learning+Something+New!" />
+<p>
+
+<a href="mailto:nijoypjose@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/nijoy-p-jose">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/NIJOY-P-JOSE">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/Nijoy/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
 
 </div>
 
@@ -21,68 +38,62 @@ Currently exploring AI, NLP, Computer Vision, and scalable backend development.
 
 🎓 Final Year B.Tech Computer Science & Engineering Student (KTU)
 
-💡 Passionate about solving real-world problems through software.
+💻 Passionate about Backend Development, Artificial Intelligence and Software Engineering.
 
-💻 Interested in
+🌱 Currently learning
 
-- Backend Development
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- NLP
-- Web Development
-
-🌱 Currently Learning
-
-- Advanced DSA
+- Advanced Data Structures & Algorithms
 - System Design
 - Machine Learning
 - Explainable AI
 - LangChain
 - PostgreSQL
 
-🎯 Goal
+🎯 **2026 Goals**
 
-Become a Software Engineer at a top product company while continuously building impactful projects.
+- 🚀 Crack a Software Engineering role at a Product-Based Company
+- 💯 Solve 500+ LeetCode Problems
+- 🤝 Contribute to Open Source
+- 📚 Build impactful AI-powered applications
 
 ---
-
 
 # 🛠 Tech Stack
 
 ### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript,php" />
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,php&perline=8"/>
 </p>
 
 ### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind"/>
 </p>
 
 ### ⚙ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,nodejs,flask" />
+<img src="https://skillicons.dev/icons?i=django,nodejs,flask"/>
 </p>
 
-### 🗄 Database
+### 🗄 Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
 </p>
 
-### 🤖 AI / ML
+### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow"/>
 </p>
 
 **Also Worked With**
 
 - Gemini API
+- Vertex AI
 - LangChain
 - Scikit-Learn
 - Pandas
@@ -92,33 +103,37 @@ Become a Software Engineer at a top product company while continuously building 
 
 ---
 
-# 🧰 Tools
+### 🧰 Developer Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino"/>
 </p>
 
 Also experienced with
 
-- ESP32
 - Raspberry Pi
-- Blynk
+- ESP32
+- Blynk IoT
 - Chart.js
+- REST APIs
 
 ---
 
-
-# 🔥 Current Focus
+# 🔭 Currently Working On
 
 🚚 **Smart Dynamic Field Operations Optimization**
 
-An AI-powered route optimization platform that uses
+An AI-powered route optimization platform using
 
+- Vehicle Routing Problem (VRP)
 - K-Means Clustering
 - Regression Models
-- Django Backend
-- Vehicle Routing Problem (VRP)
+- Django
 - Machine Learning
+
+📚 Solving Data Structures & Algorithms on LeetCode.
+
+🤖 Learning Explainable AI and NLP.
 
 ---
 
@@ -126,57 +141,43 @@ An AI-powered route optimization platform that uses
 
 ## 🚚 Smart Dynamic Field Operations Optimization
 
-AI-powered field visit planning system
+> ML-powered route planning system.
 
-🔹 Vehicle Routing Problem
-
-🔹 K-Means Clustering
-
-🔹 Regression Prediction
-
-🔹 Django Backend
-
-🔹 Machine Learning
+- Vehicle Routing Problem
+- K-Means Clustering
+- Regression Prediction
+- Django Backend
 
 ---
 
 ## 📚 VidyaVault
 
-AI-powered Student Project Repository
+> AI-powered Student Project Repository.
 
-✨ GitHub API Integration
-
-✨ Gemini AI Chatbot
-
-✨ Repository Search
-
-✨ Analytics Dashboard
-
-✨ Django + Vertex AI
+- GitHub API Integration
+- Gemini AI Chatbot
+- Repository Search
+- Analytics Dashboard
+- Django + Vertex AI
 
 ---
 
 ## 🤖 VR Integrated Telepresence Robot
 
-Remote-controlled surveillance robot
+> Remote robot with VR support.
 
-✔ Flask Video Streaming
-
-✔ OpenCV
-
-✔ Arduino
-
-✔ ESP32
-
-✔ Raspberry Pi
-
-✔ Blynk IoT
+- Flask Video Streaming
+- OpenCV
+- Arduino
+- ESP32
+- Raspberry Pi
+- Blynk IoT
 
 ---
 
 # 🏆 Achievements
 
-🥈 2nd Prize — State Level Web Designing Competition
+🥈 State-Level **2nd Prize** in Web Designing (Citadel 2024)
 
 🏅 Smart India Hackathon Participant
 
@@ -184,79 +185,63 @@ Remote-controlled surveillance robot
 
 🏅 EY GDS NextGen Employability Program
 
-🏅 Web Development Mentor (FOSSERS & IEDC)
+👨‍🏫 Web Development Mentor (FOSSERS & IEDC)
 
-🏅 NPTEL Programming in Java
+☕ NPTEL Programming in Java
 
-🏅 AI Skills Passport (EY & Microsoft)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NIJOY-P-JOSE&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NIJOY-P-JOSE&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NIJOY-P-JOSE&layout=compact&theme=tokyonight" />
-
-</p>
+🤖 AI Skills Passport (EY & Microsoft)
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIJOY-P-JOSE&theme=tokyonight)
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NIJOY-P-JOSE&theme=tokyonight"/>
 
-</p>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NIJOY-P-JOSE&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIJOY-P-JOSE&theme=tokyonight"/>
+
+---
+
+# 📊 Languages
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NIJOY-P-JOSE&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NIJOY-P-JOSE&theme=tokyonight"/>
+
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Nijoy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NIJOY-P-JOSE&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NIJOY-P-JOSE&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-# 🌐 Connect With Me
+# ⚡ Fun Fact
 
-<p align="left">
+💡 I love turning ideas into real-world software.
 
-<a href="mailto:nijoypjose@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+🧩 I enjoy solving algorithmic problems on LeetCode.
 
-<a href="https://github.com/NIJOY-P-JOSE">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/nijoy-p-jose">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/u/Nijoy/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://instagram.com/nijoynpj">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
+🚀 Always learning something new.
 
 ---
 
 <div align="center">
 
-![](https://visitcount.itsvg.in/api?id=NIJOY-P-JOSE&icon=5&color=6)
+![](https://komarev.com/ghpvc/?username=NIJOY-P-JOSE&style=for-the-badge&color=blueviolet)
 
-### 💭 Quote of the Day
-
-> **"First, solve the problem. Then, write the code." – John Johnson**
+### 💡 *"First, solve the problem. Then, write the code."*
 
 ⭐ Thanks for visiting my profile!
 
