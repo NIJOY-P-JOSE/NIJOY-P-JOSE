@@ -4,7 +4,7 @@
 
 ### 💻 Full Stack Developer | 🤖 AI & ML Enthusiast | ☕ Java Developer
 
-<img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e45e2,100:88d3ce&height=220&section=header&text=Nijoy%20P%20Jose&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=55" />
 
 <p>
 Passionate about building real-world software using <b>Java</b>, <b>Django</b>, and <b>Machine Learning</b>.<br>
@@ -196,11 +196,11 @@ Remote-controlled surveillance robot
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NIJOY-P-JOSE&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NIJOY-P-JOSE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIJOY-P-JOSE&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIJOY-P-JOSE&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIJOY-P-JOSE&layout=compact&langs_count=8&theme=tokyonight" />
 
 </p>
 
@@ -210,7 +210,7 @@ Remote-controlled surveillance robot
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NIJOY-P-JOSE&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NIJOY-P-JOSE&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </p>
 
