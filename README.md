@@ -199,7 +199,6 @@ An AI-powered route optimization platform using
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NIJOY-P-JOSE&theme=tokyonight"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NIJOY-P-JOSE&theme=tokyonight"/>
 
 </div>
 
@@ -211,7 +210,10 @@ An AI-powered route optimization platform using
 
 # 📊 Languages
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIJOY-P-JOSE&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NIJOY-P-JOSE&theme=tokyonight" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NIJOY-P-JOSE&theme=tokyonight" width="48%">
+</p>
 
 ---
 
