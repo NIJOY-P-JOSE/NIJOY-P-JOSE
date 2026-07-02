@@ -213,7 +213,7 @@ An AI-powered route optimization platform using
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NIJOY-P-JOSE&theme=tokyonight"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NIJOY-P-JOSE&theme=tokyonight)
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NIJOY-P-JOSE&theme=tokyonight"/>
 
