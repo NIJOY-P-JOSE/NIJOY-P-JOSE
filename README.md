@@ -3,9 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there,%20I'm%20Nijoy%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20software%20that%20explains%20itself&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/NIJOY-P-JOSE">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=4F9B7D&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Developer+%7C+AI%2FLLM+Enthusiast;Building+AegisSys+%E2%80%94+Explainable+Multi-Agent+AI;From+Circuit+Boards+to+Full+Stack+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=4F9B7D&center=true&vCenter=true&multiline=true&repeat=true&width=690&height=100&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Developer+%7C+AI%2FLLM+Enthusiast;Building+AegisSys+%E2%80%94+Explainable+Multi-Agent+AI;From+Circuit+Boards+to+Full+Stack+%26+AI" alt="Typing SVG" />
 </a>
 
+<br/>
 <br/>
 
 <a href="https://www.linkedin.com/in/nijoy-p-jose/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
