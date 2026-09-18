@@ -130,7 +130,7 @@ Head-motion-controlled pan-tilt camera over a low-latency video link, with dual-
 
 | 🧩 LeetCode | 🥈 Citadel State Fest | 🎯 Hackathons | 📜 Certifications |
 |:---:|:---:|:---:|:---:|
-| 75+ DSA problems solved | 2nd Prize, Web Designing (Feb 2024) | SIH · Stride (Kerala, inclusive-tech) | AI Skills Passport (EY & Microsoft) · NPTEL Java |
+| 90+ DSA problems solved | 2nd Prize, Web Designing (Feb 2024) | SIH · Stride (Kerala, inclusive-tech) | AI Skills Passport (EY & Microsoft) · NPTEL Java |
 
 </div>
 
