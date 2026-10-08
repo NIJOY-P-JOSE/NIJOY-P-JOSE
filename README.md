@@ -3,7 +3,7 @@
 <h1>⌁ NIJOY-P-JOSE // TERMINAL PROFILE ⌁</h1>
 
 <p>
-  <img src="./profile-cyber.jpg" width="220" alt="Nijoy - cyberpunk terminal portrait" />
+  <img src="./profile-cyber.png" width="220" alt="Nijoy - cyberpunk terminal portrait" />
 </p>
 
 <pre>
