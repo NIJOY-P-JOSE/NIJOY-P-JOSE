@@ -38,7 +38,7 @@ learning : Cybersecurity · System Design · DSA
 | | Project | What it does | Stack |
 |---|---|---|---|
 | 🛡️ | **[AegisSys](https://github.com/NIJOY-P-JOSE/AegisSys)** | Explainable multi-agent AI for cybersecurity assessment, with human approval before remediation | `LangGraph` `Ollama` `RAG` |
-| 💰 | **MutualFund** | Mutual fund analysis and portfolio tracking | `Python` `AI Agents` |
+| 💰 | **[MutualFund](https://github.com/albinea/mutual-fund-portfolio-agent)** | Mutual fund analysis and portfolio tracking | `Python` `AI Agents` |
 | ⚙️ | **[Event Approval](https://github.com/NIJOY-P-JOSE/event-approval-system)** | Multi-stage approval workflow with roles and JWT | `Next.js` `Django` `DRF` |
 | 🚆 | **[OptiRail](https://github.com/NIJOY-P-JOSE/OptiRail)** | Train induction and scheduling support for Kochi Metro | `Django` `PostgreSQL` `Docker` |
 | 🎓 | **[VidyaVault](https://github.com/NIJOY-P-JOSE/VidyaVault)** | Academic project repository with a Gemini Q&A assistant | `Django` `Vertex AI` |
