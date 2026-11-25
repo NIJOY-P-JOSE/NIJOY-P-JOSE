@@ -61,7 +61,7 @@ learning : Cybersecurity · System Design · DSA
 </p>
 
 <p align="center">
-🏆 <b>90+</b> LeetCode &nbsp;·&nbsp; 🥈 <b>2nd Prize</b>, Web Designing &nbsp;·&nbsp; 🚀 SIH · Stride &nbsp;·&nbsp; 📜 EY · Microsoft · NPTEL
+🏆 <b>100+</b> LeetCode &nbsp;·&nbsp; 🥈 <b>2nd Prize</b>, Web Designing &nbsp;·&nbsp; 🚀 SIH · Stride &nbsp;·&nbsp; 📜 EY · Microsoft · NPTEL
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF88&height=100&section=footer" width="100%"/>
